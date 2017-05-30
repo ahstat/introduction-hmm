@@ -173,7 +173,7 @@ points(x=0.4, y=0.7, col="green", pch=16)
 dev.off()
 
 ########################
-# Estimation of (p, q) # (Method 2: EM hard)
+# Estimation of (p, q) # (Method 2: hard EM)
 ########################
 # Given initial parameters theta_0 = (p_0, q_0),
 # we can update parameters by doing hard EM (see beamer page 33).
