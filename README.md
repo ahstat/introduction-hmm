@@ -1,4 +1,4 @@
-# Introduction to particle filters
+# Introduction to hidden Markov models
 
 This code introduces hidden Markov models (on finite state spaces) and some techniques to solve those models, following the <a href="https://ahstat.github.io/images/2014-6-11-Introduction-hmm/rabiner1989tutorial_hmm.pdf" target="_blank">tutorial of L. R. Rabiner</a>.
 
